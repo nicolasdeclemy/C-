@@ -1,0 +1,14 @@
+C:\Users\Moi\Desktop\TP2 V\TP2 V\obj\Debug\TP2 V.csprojAssemblyReference.cache
+C:\Users\Moi\Desktop\TP2 V\TP2 V\obj\Debug\TP2 V.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\TP2 V\TP2 V\bin\Debug\TP2 V.exe.config
+C:\Users\Moi\Desktop\TP2 V\TP2 V\bin\Debug\TP2 V.exe
+C:\Users\Moi\Desktop\TP2 V\TP2 V\bin\Debug\TP2 V.pdb
+C:\Users\Moi\Desktop\TP2 V\TP2 V\obj\Debug\TP2 V.exe
+C:\Users\Moi\Desktop\TP2 V\TP2 V\obj\Debug\TP2 V.pdb
+C:\Users\Moi\Desktop\Exercice variable\TP2 V\TP2 V\bin\Debug\TP2 V.exe.config
+C:\Users\Moi\Desktop\Exercice variable\TP2 V\TP2 V\bin\Debug\TP2 V.exe
+C:\Users\Moi\Desktop\Exercice variable\TP2 V\TP2 V\bin\Debug\TP2 V.pdb
+C:\Users\Moi\Desktop\Exercice variable\TP2 V\TP2 V\obj\Debug\TP2 V.csprojAssemblyReference.cache
+C:\Users\Moi\Desktop\Exercice variable\TP2 V\TP2 V\obj\Debug\TP2 V.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\Exercice variable\TP2 V\TP2 V\obj\Debug\TP2 V.exe
+C:\Users\Moi\Desktop\Exercice variable\TP2 V\TP2 V\obj\Debug\TP2 V.pdb

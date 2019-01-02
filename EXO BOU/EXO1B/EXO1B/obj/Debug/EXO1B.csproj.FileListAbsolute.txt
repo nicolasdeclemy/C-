@@ -1,0 +1,14 @@
+C:\Users\Moi\Desktop\EXO1B\EXO1B\bin\Debug\EXO1B.exe.config
+C:\Users\Moi\Desktop\EXO1B\EXO1B\bin\Debug\EXO1B.exe
+C:\Users\Moi\Desktop\EXO1B\EXO1B\bin\Debug\EXO1B.pdb
+C:\Users\Moi\Desktop\EXO1B\EXO1B\obj\Debug\EXO1B.csprojAssemblyReference.cache
+C:\Users\Moi\Desktop\EXO1B\EXO1B\obj\Debug\EXO1B.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\EXO1B\EXO1B\obj\Debug\EXO1B.exe
+C:\Users\Moi\Desktop\EXO1B\EXO1B\obj\Debug\EXO1B.pdb
+C:\Users\Moi\Desktop\EXO BOU\EXO1B\EXO1B\bin\Debug\EXO1B.exe.config
+C:\Users\Moi\Desktop\EXO BOU\EXO1B\EXO1B\bin\Debug\EXO1B.exe
+C:\Users\Moi\Desktop\EXO BOU\EXO1B\EXO1B\bin\Debug\EXO1B.pdb
+C:\Users\Moi\Desktop\EXO BOU\EXO1B\EXO1B\obj\Debug\EXO1B.csprojAssemblyReference.cache
+C:\Users\Moi\Desktop\EXO BOU\EXO1B\EXO1B\obj\Debug\EXO1B.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\EXO BOU\EXO1B\EXO1B\obj\Debug\EXO1B.exe
+C:\Users\Moi\Desktop\EXO BOU\EXO1B\EXO1B\obj\Debug\EXO1B.pdb

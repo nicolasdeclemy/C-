@@ -1,0 +1,6 @@
+C:\Users\Moi\Desktop\exo3V\exo3V\bin\Debug\exo3V.exe.config
+C:\Users\Moi\Desktop\exo3V\exo3V\bin\Debug\exo3V.exe
+C:\Users\Moi\Desktop\exo3V\exo3V\bin\Debug\exo3V.pdb
+C:\Users\Moi\Desktop\exo3V\exo3V\obj\Debug\exo3V.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\exo3V\exo3V\obj\Debug\exo3V.exe
+C:\Users\Moi\Desktop\exo3V\exo3V\obj\Debug\exo3V.pdb

@@ -1,0 +1,6 @@
+C:\Users\Moi\Desktop\EXO5TT\EXO5TT\bin\Debug\EXO5TT.exe.config
+C:\Users\Moi\Desktop\EXO5TT\EXO5TT\bin\Debug\EXO5TT.exe
+C:\Users\Moi\Desktop\EXO5TT\EXO5TT\bin\Debug\EXO5TT.pdb
+C:\Users\Moi\Desktop\EXO5TT\EXO5TT\obj\Debug\EXO5TT.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\EXO5TT\EXO5TT\obj\Debug\EXO5TT.exe
+C:\Users\Moi\Desktop\EXO5TT\EXO5TT\obj\Debug\EXO5TT.pdb

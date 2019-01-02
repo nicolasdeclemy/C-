@@ -1,0 +1,14 @@
+C:\Users\Moi\Desktop\exo5B\exo5B\bin\Debug\exo5B.exe.config
+C:\Users\Moi\Desktop\exo5B\exo5B\bin\Debug\exo5B.exe
+C:\Users\Moi\Desktop\exo5B\exo5B\bin\Debug\exo5B.pdb
+C:\Users\Moi\Desktop\exo5B\exo5B\obj\Debug\exo5B.csprojAssemblyReference.cache
+C:\Users\Moi\Desktop\exo5B\exo5B\obj\Debug\exo5B.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\exo5B\exo5B\obj\Debug\exo5B.exe
+C:\Users\Moi\Desktop\exo5B\exo5B\obj\Debug\exo5B.pdb
+C:\Users\Moi\Desktop\EXO BOU\exo5B\exo5B\bin\Debug\exo5B.exe.config
+C:\Users\Moi\Desktop\EXO BOU\exo5B\exo5B\bin\Debug\exo5B.exe
+C:\Users\Moi\Desktop\EXO BOU\exo5B\exo5B\bin\Debug\exo5B.pdb
+C:\Users\Moi\Desktop\EXO BOU\exo5B\exo5B\obj\Debug\exo5B.csprojAssemblyReference.cache
+C:\Users\Moi\Desktop\EXO BOU\exo5B\exo5B\obj\Debug\exo5B.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\EXO BOU\exo5B\exo5B\obj\Debug\exo5B.exe
+C:\Users\Moi\Desktop\EXO BOU\exo5B\exo5B\obj\Debug\exo5B.pdb

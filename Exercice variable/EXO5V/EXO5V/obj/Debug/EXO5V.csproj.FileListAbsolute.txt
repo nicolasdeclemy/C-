@@ -1,0 +1,6 @@
+C:\Users\Moi\Desktop\EXO5V\EXO5V\bin\Debug\EXO5V.exe.config
+C:\Users\Moi\Desktop\EXO5V\EXO5V\bin\Debug\EXO5V.exe
+C:\Users\Moi\Desktop\EXO5V\EXO5V\bin\Debug\EXO5V.pdb
+C:\Users\Moi\Desktop\EXO5V\EXO5V\obj\Debug\EXO5V.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\EXO5V\EXO5V\obj\Debug\EXO5V.exe
+C:\Users\Moi\Desktop\EXO5V\EXO5V\obj\Debug\EXO5V.pdb

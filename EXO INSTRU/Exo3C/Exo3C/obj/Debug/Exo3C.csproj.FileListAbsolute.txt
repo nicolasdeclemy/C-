@@ -1,0 +1,14 @@
+C:\Users\Moi\Desktop\Exo3C\Exo3C\bin\Debug\Exo3C.exe.config
+C:\Users\Moi\Desktop\Exo3C\Exo3C\bin\Debug\Exo3C.exe
+C:\Users\Moi\Desktop\Exo3C\Exo3C\bin\Debug\Exo3C.pdb
+C:\Users\Moi\Desktop\Exo3C\Exo3C\obj\Debug\Exo3C.csprojAssemblyReference.cache
+C:\Users\Moi\Desktop\Exo3C\Exo3C\obj\Debug\Exo3C.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\Exo3C\Exo3C\obj\Debug\Exo3C.exe
+C:\Users\Moi\Desktop\Exo3C\Exo3C\obj\Debug\Exo3C.pdb
+C:\Users\Moi\Desktop\EXO INSTRU\Exo3C\Exo3C\bin\Debug\Exo3C.exe.config
+C:\Users\Moi\Desktop\EXO INSTRU\Exo3C\Exo3C\bin\Debug\Exo3C.exe
+C:\Users\Moi\Desktop\EXO INSTRU\Exo3C\Exo3C\bin\Debug\Exo3C.pdb
+C:\Users\Moi\Desktop\EXO INSTRU\Exo3C\Exo3C\obj\Debug\Exo3C.csprojAssemblyReference.cache
+C:\Users\Moi\Desktop\EXO INSTRU\Exo3C\Exo3C\obj\Debug\Exo3C.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\EXO INSTRU\Exo3C\Exo3C\obj\Debug\Exo3C.exe
+C:\Users\Moi\Desktop\EXO INSTRU\Exo3C\Exo3C\obj\Debug\Exo3C.pdb

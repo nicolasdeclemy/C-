@@ -1,0 +1,7 @@
+C:\Users\Moi\Desktop\Eexo2V\Eexo2V\bin\Debug\Eexo2V.exe.config
+C:\Users\Moi\Desktop\Eexo2V\Eexo2V\bin\Debug\Eexo2V.exe
+C:\Users\Moi\Desktop\Eexo2V\Eexo2V\bin\Debug\Eexo2V.pdb
+C:\Users\Moi\Desktop\Eexo2V\Eexo2V\obj\Debug\Eexo2V.csprojAssemblyReference.cache
+C:\Users\Moi\Desktop\Eexo2V\Eexo2V\obj\Debug\Eexo2V.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\Eexo2V\Eexo2V\obj\Debug\Eexo2V.exe
+C:\Users\Moi\Desktop\Eexo2V\Eexo2V\obj\Debug\Eexo2V.pdb

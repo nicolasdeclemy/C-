@@ -1,0 +1,7 @@
+C:\Users\Moi\Desktop\EXO5C\EXO5C\bin\Debug\EXO5C.exe.config
+C:\Users\Moi\Desktop\EXO5C\EXO5C\bin\Debug\EXO5C.exe
+C:\Users\Moi\Desktop\EXO5C\EXO5C\bin\Debug\EXO5C.pdb
+C:\Users\Moi\Desktop\EXO5C\EXO5C\obj\Debug\EXO5C.csprojAssemblyReference.cache
+C:\Users\Moi\Desktop\EXO5C\EXO5C\obj\Debug\EXO5C.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\EXO5C\EXO5C\obj\Debug\EXO5C.exe
+C:\Users\Moi\Desktop\EXO5C\EXO5C\obj\Debug\EXO5C.pdb

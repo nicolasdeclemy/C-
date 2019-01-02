@@ -1,0 +1,7 @@
+C:\Users\Moi\Desktop\EXO6B\EXO6B\bin\Debug\EXO6B.exe.config
+C:\Users\Moi\Desktop\EXO6B\EXO6B\bin\Debug\EXO6B.exe
+C:\Users\Moi\Desktop\EXO6B\EXO6B\bin\Debug\EXO6B.pdb
+C:\Users\Moi\Desktop\EXO6B\EXO6B\obj\Debug\EXO6B.csprojAssemblyReference.cache
+C:\Users\Moi\Desktop\EXO6B\EXO6B\obj\Debug\EXO6B.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\EXO6B\EXO6B\obj\Debug\EXO6B.exe
+C:\Users\Moi\Desktop\EXO6B\EXO6B\obj\Debug\EXO6B.pdb

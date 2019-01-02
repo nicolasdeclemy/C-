@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exo5B", "exo5B\exo5B.csproj", "{4BC357D0-AB0E-4BE4-A887-809B64056AFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BC357D0-AB0E-4BE4-A887-809B64056AFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BC357D0-AB0E-4BE4-A887-809B64056AFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BC357D0-AB0E-4BE4-A887-809B64056AFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BC357D0-AB0E-4BE4-A887-809B64056AFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {793B1CE8-F928-4002-ADCF-D42F3D7A2996}
+	EndGlobalSection
+EndGlobal

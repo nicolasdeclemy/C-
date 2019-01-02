@@ -1,0 +1,7 @@
+C:\Users\Moi\Desktop\exo1V\exo1V\bin\Debug\exo1V.exe.config
+C:\Users\Moi\Desktop\exo1V\exo1V\bin\Debug\exo1V.exe
+C:\Users\Moi\Desktop\exo1V\exo1V\bin\Debug\exo1V.pdb
+C:\Users\Moi\Desktop\exo1V\exo1V\obj\Debug\exo1V.csprojAssemblyReference.cache
+C:\Users\Moi\Desktop\exo1V\exo1V\obj\Debug\exo1V.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\exo1V\exo1V\obj\Debug\exo1V.exe
+C:\Users\Moi\Desktop\exo1V\exo1V\obj\Debug\exo1V.pdb

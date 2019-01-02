@@ -1,0 +1,13 @@
+C:\Users\Moi\Desktop\EXO7TT\EXO7TT\bin\Debug\EXO7TT.exe.config
+C:\Users\Moi\Desktop\EXO7TT\EXO7TT\bin\Debug\EXO7TT.exe
+C:\Users\Moi\Desktop\EXO7TT\EXO7TT\bin\Debug\EXO7TT.pdb
+C:\Users\Moi\Desktop\EXO7TT\EXO7TT\obj\Debug\EXO7TT.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\EXO7TT\EXO7TT\obj\Debug\EXO7TT.exe
+C:\Users\Moi\Desktop\EXO7TT\EXO7TT\obj\Debug\EXO7TT.pdb
+C:\Users\Moi\Desktop\exo tableau\EXO7TT\EXO7TT\bin\Debug\EXO7TT.exe.config
+C:\Users\Moi\Desktop\exo tableau\EXO7TT\EXO7TT\bin\Debug\EXO7TT.exe
+C:\Users\Moi\Desktop\exo tableau\EXO7TT\EXO7TT\bin\Debug\EXO7TT.pdb
+C:\Users\Moi\Desktop\exo tableau\EXO7TT\EXO7TT\obj\Debug\EXO7TT.csprojAssemblyReference.cache
+C:\Users\Moi\Desktop\exo tableau\EXO7TT\EXO7TT\obj\Debug\EXO7TT.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\exo tableau\EXO7TT\EXO7TT\obj\Debug\EXO7TT.exe
+C:\Users\Moi\Desktop\exo tableau\EXO7TT\EXO7TT\obj\Debug\EXO7TT.pdb
